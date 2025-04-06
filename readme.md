@@ -16,7 +16,7 @@ This web application allows you to calculate European option prices using the He
 1. Clone this repository:
    ```
    git clone https://github.com/x-senpai-x/StochasticModel.git
-   cd heston-model-calculator
+   cd StochasticModel
    ```
 
 2. Create a virtual environment (optional but recommended):
